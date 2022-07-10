@@ -7,6 +7,6 @@ Machine and tools:
 - Grove Pir Movement Sensor
 - NeoPixel LED Ring with 24 x RGB LEDs
 - Big Sound Sensor Module
-- Arduino Servo Motor
+- Tower Pro MG90S metal gear micro servo
 - Grove - Touch Sensor
 - Grove - Water Sensor
